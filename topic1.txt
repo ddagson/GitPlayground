@@ -1,3 +1,4 @@
 Här är ett topic
 Vi missade visst en rad här. Nu funkar det.
+Här lägger vi till en funktion.
 Här mer text.
