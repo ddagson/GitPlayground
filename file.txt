@@ -1,3 +1,4 @@
 Här börjar filen.
 Här är en rad till.
+Här löser vi också en bug. Från bug1.
 Här slutar filen.
