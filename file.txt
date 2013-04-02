@@ -1,3 +1,0 @@
-Här börjar filen.
-Här är en rad till.
-Här slutar filen.
